@@ -5,11 +5,19 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>cn.zgy</groupId>
+<<<<<<< HEAD
   <artifactId>word</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <name>word Maven Webapp</name>
+=======
+  <artifactId>test001</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <packaging>war</packaging>
+
+  <name>test001 Maven Webapp</name>
+>>>>>>> 39ef7d6a87ee07312b92dc6c733f529c87e1158e
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -29,7 +37,11 @@
   </dependencies>
 
   <build>
+<<<<<<< HEAD
     <finalName>word</finalName>
+=======
+    <finalName>test001</finalName>
+>>>>>>> 39ef7d6a87ee07312b92dc6c733f529c87e1158e
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
